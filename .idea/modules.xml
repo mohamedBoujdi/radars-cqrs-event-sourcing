@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../event sourcing &amp; cqrs dp/commonapi/commonapi.iml" filepath="$PROJECT_DIR$/../event sourcing &amp; cqrs dp/commonapi/commonapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonapi/commonapi.iml" filepath="$PROJECT_DIR$/commonapi/commonapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/radar-service/radar-service.iml" filepath="$PROJECT_DIR$/radar-service/radar-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/radars-cqrs-event-sourcing.iml" filepath="$PROJECT_DIR$/.idea/radars-cqrs-event-sourcing.iml" />
     </modules>
