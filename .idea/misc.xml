@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/radar-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../event sourcing &amp; cqrs dp/commonapi/pom.xml" />
       </list>
     </option>
   </component>

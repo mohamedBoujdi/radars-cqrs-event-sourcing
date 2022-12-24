@@ -7,10 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="radar-service" />
+        <module name="commonapi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="commonapi" target="17" />
       <module name="radar-service" target="17" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="radar-service" options="-parameters" />
+    </option>
   </component>
 </project>
