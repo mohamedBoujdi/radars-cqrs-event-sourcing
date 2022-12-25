@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/commonapi/pom.xml" />
         <option value="$PROJECT_DIR$/dicoveryservice/pom.xml" />
         <option value="$PROJECT_DIR$/gatewayservice/pom.xml" />
+        <option value="$PROJECT_DIR$/immatriculation-service/pom.xml" />
       </list>
     </option>
   </component>

@@ -9,12 +9,14 @@
         <module name="dicoveryservice" />
         <module name="radar-service" />
         <module name="commonapi" />
+        <module name="gatewayservice" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="dicoveryservice" options="-parameters" />
+      <module name="gatewayservice" options="-parameters" />
       <module name="radar-service" options="-parameters" />
     </option>
   </component>
