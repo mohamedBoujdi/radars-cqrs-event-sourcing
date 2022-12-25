@@ -1,5 +1,7 @@
 package com.boujdi.immatriculationservice.commands.aggregates;
 
+import com.boujdi.commands.MatriculationCommand;
+import com.boujdi.events.MatriculationEvent;
 import lombok.NoArgsConstructor;
 import org.axonframework.commandhandling.CommandHandler;
 import org.axonframework.eventsourcing.EventSourcingHandler;

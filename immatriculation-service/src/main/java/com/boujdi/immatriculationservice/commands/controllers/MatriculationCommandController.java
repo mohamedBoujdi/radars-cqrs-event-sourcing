@@ -1,6 +1,7 @@
 package com.boujdi.immatriculationservice.commands.controllers;
 
 import com.boujdi.immatriculationservice.commands.services.MatriculationCommandService;
+import com.boujdi.queries.MatriculationQuery;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
