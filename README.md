@@ -162,7 +162,7 @@ Récupérer un véhicule par son id
 ```json
 {
     "id": "1",
-    "plateNumber": "AB-123-CD",
+    "plateNumber": "gyv-uybvy-bd",
     "brand": "Renault",
     "power": 5,
     "model": "Clio"
@@ -179,7 +179,7 @@ Modifier un véhicule
 ```json
 {
     "id": "1",
-    "plateNumber": "AB-123-CD",
+    "plateNumber": "gyv-uybvy-bd",
     "brand": "Renault",
     "power": 5,
     "model": "Clio"
@@ -207,13 +207,13 @@ Créer un propriétaire
 ##### **Exemple**
 ```json
 {
-    "id": "1",
-    "firstName": "John",
-    "lastName": "Doe",
-    "address": "1 rue de la Paix",
-    "postalCode": "75001",
-    "city": "Paris",
-    "country": "France"
+      "id": "1",
+      "firstName": "mohamed",
+      "lastName": "boujdi",
+      "address": "1 rue de xxx",
+      "postalCode": "75001",
+      "city": "xxxx",
+      "country": "xxxxxx"
 }
 ```
 #### **GET /owners**
